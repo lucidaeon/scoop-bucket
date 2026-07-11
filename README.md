@@ -2,10 +2,6 @@
 
 A [Scoop](https://scoop.sh) bucket for lucidaeon's command-line tools.
 
-> ⚠️ **Not yet published.** The manifests here are skeletons (placeholder
-> `version`/`url`/`hash`) until the first Windows release is built. `scoop install`
-> will fail until then.
-
 ## Install
 
 ```powershell
@@ -23,6 +19,9 @@ Don't have Scoop yet? `irm get.scoop.sh | iex` (if PowerShell blocks it, run
 |---|---|
 | [starcat](https://github.com/lucidaeon/mediumcoeli) | ephemeris computation + table presentation |
 | [blackmoon](https://github.com/lucidaeon/mediumcoeli) | reads / merges / writes astrology chart formats |
+
+Each manifest tracks the latest Windows release; `scoop update` picks up new
+versions as they ship.
 
 ## Note on SmartScreen
 
