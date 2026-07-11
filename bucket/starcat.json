@@ -1,12 +1,12 @@
 {
-  "version": "0.10.0",
+  "version": "0.11.0",
   "description": "Ephemeris computation and table presentation CLI",
   "homepage": "https://github.com/lucidaeon/mediumcoeli",
   "license": "CC0-1.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/lucidaeon/mediumcoeli/releases/download/starcat/0.10.0/starcat-0.10.0-x86_64-pc-windows-msvc.zip",
-      "hash": "b5121059362566b1dfce5e51bdbdf54e804e3f56d7ca2cdfcbdc8d9cf804a03e",
+      "url": "https://github.com/lucidaeon/mediumcoeli/releases/download/citest/starcat/0.11.0/starcat-0.11.0-x86_64-pc-windows-msvc.zip",
+      "hash": "db5b2bb325e383f36840dad637cd58007f918706d82093d302b29b5924dadac8",
       "bin": "starcat.exe"
     }
   }
